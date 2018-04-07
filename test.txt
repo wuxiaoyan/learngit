@@ -1,7 +1,0 @@
-test file
-
-new file
-
-add file
-
-test delete
