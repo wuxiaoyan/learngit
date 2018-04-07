@@ -7,4 +7,8 @@ i am a gril, 27 maybe is older.
 
 这次用中文修改。
 
+
 I'm from dev branch
+
+learn git deal merge
+
