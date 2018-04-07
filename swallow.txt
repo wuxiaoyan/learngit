@@ -13,4 +13,5 @@ I'm from dev branch
 learn git deal merge
 
 new dev branch
+deal with bug stash     
 
